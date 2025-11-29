@@ -72,11 +72,10 @@ To help you prepare faster and smarter, you can check these guides:
 - 35 contact hours certificate  
 - Full PMP application support  
 - Weekend & weekday batches  
-- Online live classes  
-
+- Online live classes & classroom training
 ---
 
-## PMP Interview Questions (Simple & Easy)
+## PMP Interview Questions 
 
 1. **What is a Project?**  
 A project is temporary work with a start, end, and a clear goal.
