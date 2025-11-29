@@ -1,6 +1,6 @@
 # PMP Tutorials – Step by Step Guide
 
-## Tutorial 1: What is PMP Certification?
+## What is PMP Certification?
 PMP stands for **Project Management Professional**.  
 It is a globally recognized certification by PMI (Project Management Institute).  
 
@@ -12,7 +12,7 @@ It is a globally recognized certification by PMI (Project Management Institute).
 
 ---
 
-## Tutorial 2: Understanding Project Management Basics
+## Understanding Project Management Basics
 ### Key Terms:
 - **Project:** Temporary work with start, end, and a goal.  
 - **Project Manager:** The person who plans, executes, and closes the project.  
@@ -22,7 +22,7 @@ It is a globally recognized certification by PMI (Project Management Institute).
 
 ---
 
-## Tutorial 3: Project Lifecycle
+## Project Lifecycle
 Every project has 5 phases:
 
 1. **Initiation:** Define the project, create Project Charter.  
@@ -33,7 +33,7 @@ Every project has 5 phases:
 
 ---
 
-## Tutorial 4: PMP Knowledge Areas (Simplified)
+## PMP Knowledge Areas (Simplified)
 PMP uses **10 Knowledge Areas**:  
 
 1. Integration Management  
@@ -49,7 +49,7 @@ PMP uses **10 Knowledge Areas**:
 
 ---
 
-## Tutorial 5: Work Breakdown Structure (WBS)
+## Work Breakdown Structure (WBS)
 **WBS** is a tool to divide a project into smaller, manageable tasks.  
 **Steps to create WBS:**  
 1. Identify main deliverables.  
@@ -58,7 +58,7 @@ PMP uses **10 Knowledge Areas**:
 
 ---
 
-## Tutorial 6: PMP Exam Preparation Tips
+## PMP Exam Preparation Tips
 - Study **PMBOK Guide 7th Edition**  
 - Use **practice questions & mock exams**  
 - Focus on **Process Groups** and **Knowledge Areas**  
@@ -67,7 +67,7 @@ PMP uses **10 Knowledge Areas**:
 
 ---
 
-## Tutorial 7: Useful PMP Resources
+## Useful PMP Resources
 - **[PMP Certification Course](https://www.icertglobal.com/project-management/pmp-certification)**  
 - **[PMP Study Plan & Tips](https://www.icertglobal.com/blog/pmp-study-plan-pass-the-pmp-exam-fast-an-expert-guide)**  
 - **[PMP Syllabus Guide](https://www.icertglobal.com/blog/pmp-syllabus-and-exam-pattern-2026-expert-guide)**  
@@ -75,7 +75,7 @@ PMP uses **10 Knowledge Areas**:
 
 ---
 
-## Tutorial 8: Simple Project Templates
+## Simple Project Templates
 You can use these templates to practice:  
 - Project Charter Template  
 - Risk Register Template  
